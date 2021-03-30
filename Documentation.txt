@@ -1,1 +1,3 @@
 I have added a new file as documentatio of the current running project.
+
+i have added st checkout and we want to merg it on previous one.
